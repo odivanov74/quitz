@@ -1,0 +1,15 @@
+.content ul{
+list-style: none;
+padding: 0;
+margin-top: 40px;
+
+}
+
+.content li{
+    box-shadow: 0 0 4px 1px #01588A;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 10px;
+    cursor: pointer;
+    
+}

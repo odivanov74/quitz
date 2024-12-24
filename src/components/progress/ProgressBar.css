@@ -1,0 +1,19 @@
+.progress-bar
+{
+    width: 100%;
+    height: 10px;
+    border-radius: 10px;
+    background: 10px;
+    background: #e6e6e6;
+    margin: 20px 0 10px;
+    background-color: #01588a;
+}
+
+.progress-bar-fill
+{
+    width: 0;
+    height: 100%;
+    border-radius: 10px;
+    transition: width 0.5s ease-out;
+    background-color: green;
+}
